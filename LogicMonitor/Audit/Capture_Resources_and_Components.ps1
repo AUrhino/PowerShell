@@ -14,7 +14,7 @@
 	Works with PS DataSources_List (Locator: EWZY2K) to write: auto.activedatasources
 
 .LINK
-   https://github.com/ryan-gillan_nttltd/LM-snippets/blob/main/Capture_Resources_and_Components.ps1
+   https://github.com/AUrhino/PowerShell/blob/main/LogicMonitor/Audit/Capture_Resources_and_Components.ps1
 #>
 # filter to the devices you want:
 
